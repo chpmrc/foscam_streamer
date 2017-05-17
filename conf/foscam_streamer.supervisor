@@ -1,5 +1,5 @@
 [program:foscam_streamer]
-command = node index --production
+command = source env && node index --production
 directory = /home/ubuntu/foscam_streamer
 user = ubuntu
 autostart = true
