@@ -27,3 +27,7 @@ It includes some supervisor configurations to run the server and the watchdog.
 ## Credits
 
 - Thanks to the creators and maintainers of https://www.npmjs.com/package/node-rtsp-stream and https://github.com/phoboslab/jsmpeg.
+
+## Notes
+
+This repository includes a copy of `node-rtsp-stream` for my convenience (I keep tweaking some ffmpeg parameters).
