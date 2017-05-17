@@ -23,6 +23,7 @@ It includes some supervisor configurations to run the server and the watchdog.
 ## Todo
 
 - Absolute paths should be environment variables.
+- Ports and other constants should be environment variables. 😴
 
 ## Credits
 
