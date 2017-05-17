@@ -2,7 +2,7 @@
 
 A small tool to stream your Foscam IP camera on the web, plugin-free.
 
-## To test
+## Testing
 
 - Set the `FOSCAM_STREAM_URL` environment variable (e.g. `rtsp://user:pass@abcde.myfoscam.org:88/video`).
 - Start the server with `node index.js`.
@@ -20,6 +20,10 @@ It includes some supervisor configurations to run the server and the watchdog.
 
 **IMPORTANT**: Make sure the absolute paths match your setup.
 
-## TODO
+## Todo
 
 - Absolute paths should be environment variables.
+
+## Credits
+
+- Thanks to the creators and maintainers of https://www.npmjs.com/package/node-rtsp-stream and https://github.com/phoboslab/jsmpeg.
