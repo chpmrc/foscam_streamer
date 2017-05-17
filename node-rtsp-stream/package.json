@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "node-rtsp-stream@0.0.3",
+        "scope": null,
+        "escapedName": "node-rtsp-stream",
+        "name": "node-rtsp-stream",
+        "rawSpec": "0.0.3",
+        "spec": "0.0.3",
+        "type": "version"
+      }
+    ]
+  ],
+  "_from": "node-rtsp-stream@0.0.3",
+  "_id": "node-rtsp-stream@0.0.3",
+  "_inCache": true,
+  "_location": "/node-rtsp-stream",
+  "_npmUser": {
+    "name": "kyriesent",
+    "email": "david.d.jsa@gmail.com"
+  },
+  "_npmVersion": "1.4.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "node-rtsp-stream@0.0.3",
+    "scope": null,
+    "escapedName": "node-rtsp-stream",
+    "name": "node-rtsp-stream",
+    "rawSpec": "0.0.3",
+    "spec": "0.0.3",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-rtsp-stream/-/node-rtsp-stream-0.0.3.tgz",
+  "_shasum": "b3c91b1069e36a92614ceef7246eede3fc98656b",
+  "_shrinkwrap": null,
+  "_spec": "node-rtsp-stream@0.0.3",
+  "author": {
+    "name": "David Jsa",
+    "email": "david@jsa.me"
+  },
+  "dependencies": {
+    "ws": "^0.4.32"
+  },
+  "description": "node-rtsp-stream ================",
+  "devDependencies": {
+    "coffee-script": "^1.8.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "b3c91b1069e36a92614ceef7246eede3fc98656b",
+    "tarball": "https://registry.npmjs.org/node-rtsp-stream/-/node-rtsp-stream-0.0.3.tgz"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "kyriesent",
+      "email": "david.d.jsa@gmail.com"
+    }
+  ],
+  "name": "node-rtsp-stream",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "node-rstp-stream"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "version": "0.0.3"
+}
