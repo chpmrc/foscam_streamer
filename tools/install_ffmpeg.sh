@@ -6,8 +6,8 @@
 
 # sudo add-apt-repository ppa:mc3man/trusty-media
 
-sudo add-apt-repository ppa:jonathonf/ffmpeg-3
-sudo apt-get update
-sudo apt-get dist-upgrade
+add-apt-repository -y ppa:jonathonf/ffmpeg-3
+apt-get update
+apt-get dist-upgrade -y
 
-sudo apt-get install ffmpeg
+apt-get install -y ffmpeg
