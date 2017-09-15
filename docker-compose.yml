@@ -9,3 +9,4 @@ services:
       - FOSCAM_STREAM_URL=${FOSCAM_STREAM_URL}
     ports:
       - 9999:9999
+    restart: unless-stopped
